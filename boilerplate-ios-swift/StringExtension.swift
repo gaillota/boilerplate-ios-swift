@@ -7,3 +7,13 @@
 //
 
 import Foundation
+
+extension String {
+    func trim() -> String {
+        return self.stringByTrimmingCharactersInSet(NSCharacterSet.whitespaceAndNewlineCharacterSet())
+    }
+    
+    func replace(target: String, with: String) -> String {
+        return self.stringByReplacingOccurrencesOfString(target, withString: with)
+    }
+}
