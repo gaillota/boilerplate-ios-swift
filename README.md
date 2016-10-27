@@ -16,4 +16,7 @@ This repository contains a very simple starter project for an iOS application.
 - [AlamofireImage](https://github.com/Alamofire/AlamofireImage)
 - [AFDateHelper](https://github.com/melvitax/DateHelper)
 
+## Useful packages
 For a rich list of useful packages, check out the __Awesome Swift__ repositories
+- [Awesome Swift by matteocrippa](https://github.com/matteocrippa/awesome-swift)
+- [Awesome Swift by Wolg](https://github.com/Wolg/awesome-swift)
