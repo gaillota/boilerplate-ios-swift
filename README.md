@@ -1,4 +1,4 @@
-# ios-boilerplate-starter
+# boilerplate-ios-swift
 This repository contains a very simple starter project for an iOS application.
 ## Features
 - An example of entity, along with its repository and factory
