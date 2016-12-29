@@ -18,5 +18,5 @@ This repository contains a very simple starter project for an iOS application.
 
 ## Useful packages
 For a rich list of useful packages, check out the __Awesome Swift__ repositories
-- [Awesome Swift by matteocrippa](https://github.com/matteocrippa/awesome-swift)
-- [Awesome Swift by Wolg](https://github.com/Wolg/awesome-swift)
+- [Awesome Swift](https://github.com/matteocrippa/awesome-swift) by __matteocrippa__
+- [Awesome Swift](https://github.com/Wolg/awesome-swift) by __Wolg__
