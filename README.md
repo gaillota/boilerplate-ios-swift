@@ -7,7 +7,7 @@ This repository contains a very simple starter project for an iOS application.
 - Some extensions
 - A Podfile adding the basics dependencies such as Alamofire and SwiftyJSON
 
-/!\ This starter project does not include any interface features, except for the UITableViewController
+** /!\ This starter project does not include any interface features, except for the UITableViewController **
 
 ## Dependencies
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
